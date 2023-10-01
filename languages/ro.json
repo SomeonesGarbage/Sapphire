@@ -1,0 +1,41 @@
+{
+    "settings" : {
+        
+    },
+
+    "ui" : {
+        "newCommunties" : "Comunități Noi",
+        "popularCommunities" : "Comunități Populare"
+    },
+
+    "newUser" : {
+        "welcomeHeader" : "Bine ați venit la Sapphire!",
+        "welcome" : "Bine ați venit la Sapphire! O platformă de socializare online, făcut pentru oameni care au un Wii U să vorbesc împreună. Se pare că asta e prima dată când a deschis aplicația. Haide să îți facem contul!",
+
+        "rulesHeader" : "Reguli să le ți minte..",
+        "preRules" : "Ca să facem un loc frumos pentru toată lumea trebuie să avem niște reguli! Vă rugăm să citiți aceste reguli.",
+
+        "nnidSetupHeader" : "Setupul de NNID",
+        "nnidSetup" : "Vă rugăm să vă introduceți NNID de contul care sunteți logați acuma.",
+        "nnidComplete" : "Perfect! Tu acuma ești un membru Sapphire! Dar înainte de a începe, trebuie să citești niște reguli."
+    },
+
+    "rules" : [
+        {
+            "name" : "Nu NSFW",
+            "description" : "Vă rugăm să nu postați lucruri NSFW sau alte lucruri degustătoare. Asta pot fi desene, capturi de ecran sau text."
+        },
+        {
+            "name" : "Nicio postare ofensivă.",
+            "description" : "Orice care poate fi rău pentru o persoană nu o-să fie tolerat, asta poate fi: Rasismul, Discriminarea, Homophobia, Transphobia sau alte lucruri rele!"
+        }, 
+        {
+            "name" : "Spoilere",
+            "description" : "Mulți oameni vin la Sapphire pentru secrete la jocurile lor preferate. Dar nu ca cineva să dea spoilere. Dacă postezi un spoiler apasă pe butonul de spoiler!"
+        },
+        {
+            "name" : "Fără informați privată",
+            "description" : "Vă rugăm să nu postezi nimica privat pe Sapphire. Asta poate fi, adrese, prenume și nume de familie, adrese IP, orașe, state sau alte lucruri private."
+        }
+    ]
+}
